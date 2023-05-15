@@ -5,32 +5,34 @@
 ## Tópicos
 🔹 Descrição do projeto 
 
-
+https://github.com/Vharkus/Salas_Aulas/tree/Sala2#descri%C3%A7%C3%A3o-do-projeto
 
 🔹 Funcionalidades
 
-
+https://github.com/Vharkus/Salas_Aulas/tree/Sala2#funcionalidades-%EF%B8%8F
 
 🔹 Distribuição
 
-
+https://github.com/Vharkus/Salas_Aulas/tree/Sala2#distribui%C3%A7%C3%A3o
 
 🔹 Pré-requisitos
 
+https://github.com/Vharkus/Salas_Aulas/tree/Sala2#pr%C3%A9-requisitos-%EF%B8%8F
 
 🔹 Como rodar a aplicação
 
+https://github.com/Vharkus/Salas_Aulas/tree/Sala2#como-rodar-a-aplica%C3%A7%C3%A3o
 
 🔹 Linguagens, dependências e libs utilizadas
 
-
+https://github.com/Vharkus/Salas_Aulas/tree/Sala2#linguagens-dependencias-e-libs-utilizadas-
 
 🔹 Desenvolvedores/Contribuintes
 
-
+https://github.com/Vharkus/Salas_Aulas/tree/Sala2#desenvolvedorescontribuintes
 
 🔹 Informações Extras
-
+https://github.com/Vharkus/Salas_Aulas/tree/Sala2#copyright-%EF%B8%8F-2023---an%C3%A1lise-de-alunos
 
 
 ## Descrição do projeto
