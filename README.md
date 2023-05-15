@@ -4,7 +4,7 @@
 
 ## Tópicos
 🔹 Descrição do projeto 
-
+https://github.com/Vharkus/Salas_Aulas/blob/main/README.md#descri%C3%A7%C3%A3o-do-projeto
 🔹 Funcionalidades
 
 🔹 Distribuição
