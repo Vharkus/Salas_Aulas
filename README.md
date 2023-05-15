@@ -4,35 +4,36 @@
 
 ## Tópicos
 🔹 Descrição do projeto 
+
 https://github.com/Vharkus/Salas_Aulas/blob/main/README.md#descri%C3%A7%C3%A3o-do-projeto
+
 🔹 Funcionalidades
+
+https://github.com/Vharkus/Salas_Aulas/blob/main/README.md#funcionalidades-%EF%B8%8F
 
 🔹 Distribuição
 
+https://github.com/Vharkus/Salas_Aulas/blob/main/README.md#distribui%C3%A7%C3%A3o
+
 🔹 Pré-requisitos
+
+https://github.com/Vharkus/Salas_Aulas/blob/main/README.md#pr%C3%A9-requisitos-%EF%B8%8F
 
 🔹 Como rodar a aplicação
 
-🔹 Testes realizados
-
-🔹 Banco de Dados
+https://github.com/Vharkus/Salas_Aulas/blob/main/README.md#como-rodar-a-aplica%C3%A7%C3%A3o
 
 🔹 Linguagens, dependências e libs utilizadas
 
-🔹 Novas Recursos
-
-🔹 Resolvendo problemas
-
-🔹 Recursos inseridos 
+https://github.com/Vharkus/Salas_Aulas/blob/main/README.md#linguagens-dependencias-e-libs-utilizadas-
 
 🔹 Desenvolvedores/Contribuintes
 
+https://github.com/Vharkus/Salas_Aulas/blob/main/README.md#desenvolvedorescontribuintes
+
 🔹 Informações Extras
 
-
-...
-
-Insira os tópicos do README em links para facilitar a navegação do leitor
+https://github.com/Vharkus/Salas_Aulas/blob/main/README.md#copyright-%EF%B8%8F-2023---an%C3%A1lise-de-alunos****
 
 ## Descrição do projeto
 Um código que mostrará 5 salas e a quantidade de alunos em cada uma. Somado a isso ainda teremos a média de alunos baseada nas 5 salas.
@@ -49,10 +50,8 @@ Mostrar a média de alunos total.
 Um compilador de código que possa rodar ele, por exemplo: Programiz.
 
 ## Como rodar a aplicação 
-Nesta versão tudo o que devemos fazer é dar o comando respectivo para o copilador rotdar o código.
+Nesta versão tudo o que devemos fazer é dar o comando respectivo para o copilador rodar o código.
 
-## Banco de Dados 🗂️
-Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv, xml e etc).
 
 ## Linguagens, dependencias e libs utilizadas 📚
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white.md)
