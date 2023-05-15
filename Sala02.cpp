@@ -27,7 +27,7 @@ int main() {
     }
     //Equação que nos da a média de alunos.
      media = (sala[0] + sala[1] + sala[2] + sala[3] + sala[4] + sala[5]);
-    media = (media/6);
+    media = (media/6) << endl;
     
     cout << "Salas com alunos acima da média: " << endl;
     //Segundo bloco de repetição For.
@@ -35,7 +35,7 @@ int main() {
         //Caso o número de alunos seja maior que o número da média, a repetição será acionada.
         if (sala[i] > media){
             //Interface que mostra as salas com os maiores números.
-            cout << "Sala " << i + 1 << " ,";
+            cout << "Sala " << i + 1 << " ," << endl;
     }
 }
     cout << "Salas com alunos abaixo da média: " << endl;
