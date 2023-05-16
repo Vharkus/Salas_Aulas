@@ -3,37 +3,19 @@
 ## Status do Projeto: ✔️ Concluído
 
 ## Tópicos
-🔹 Descrição do projeto 
+🔹 [Descrição do projeto](https://github.com/Vharkus/Salas_Aulas/blob/main/README.md#descri%C3%A7%C3%A3o-do-projeto)
 
-https://github.com/Vharkus/Salas_Aulas/blob/main/README.md#descri%C3%A7%C3%A3o-do-projeto
+🔹 [Funcionalidades](https://github.com/Vharkus/Salas_Aulas/blob/main/README.md#funcionalidades-%EF%B8%8F)
 
-🔹 Funcionalidades
+🔹 [Pré-requisitos](https://github.com/Vharkus/Salas_Aulas/blob/main/README.md#pr%C3%A9-requisitos-%EF%B8%8F)
 
-https://github.com/Vharkus/Salas_Aulas/blob/main/README.md#funcionalidades-%EF%B8%8F
+🔹 [Como rodar a aplicação](https://github.com/Vharkus/Salas_Aulas/blob/main/README.md#como-rodar-a-aplica%C3%A7%C3%A3o)
 
-🔹 Distribuição
+🔹 [Linguagens, dependências e libs utilizadas](https://github.com/Vharkus/Salas_Aulas/blob/main/README.md#linguagens-dependencias-e-libs-utilizadas-)
 
-https://github.com/Vharkus/Salas_Aulas/blob/main/README.md#distribui%C3%A7%C3%A3o
+🔹 [Desenvolvedores/Contribuintes](https://github.com/Vharkus/Salas_Aulas/blob/main/README.md#desenvolvedorescontribuintes)
 
-🔹 Pré-requisitos
-
-https://github.com/Vharkus/Salas_Aulas/blob/main/README.md#pr%C3%A9-requisitos-%EF%B8%8F
-
-🔹 Como rodar a aplicação
-
-https://github.com/Vharkus/Salas_Aulas/blob/main/README.md#como-rodar-a-aplica%C3%A7%C3%A3o
-
-🔹 Linguagens, dependências e libs utilizadas
-
-https://github.com/Vharkus/Salas_Aulas/blob/main/README.md#linguagens-dependencias-e-libs-utilizadas-
-
-🔹 Desenvolvedores/Contribuintes
-
-https://github.com/Vharkus/Salas_Aulas/blob/main/README.md#desenvolvedorescontribuintes
-
-🔹 Informações Extras
-
-https://github.com/Vharkus/Salas_Aulas/blob/main/README.md#copyright-%EF%B8%8F-2023---an%C3%A1lise-de-alunos****
+🔹 [Informações Extras](https://github.com/Vharkus/Salas_Aulas/blob/main/README.md#copyright-%EF%B8%8F-2023---an%C3%A1lise-de-alunos****)
 
 ## Descrição do projeto
 Um código que mostrará 5 salas e a quantidade de alunos em cada uma. Somado a isso ainda teremos a média de alunos baseada nas 5 salas.
@@ -43,8 +25,6 @@ Um código que mostrará 5 salas e a quantidade de alunos em cada uma. Somado a 
 Informar quantos alunos tem em cada sala.
 ✔️ Funcionalidade 2
 Mostrar a média de alunos total.
-## Distribuição
-[Link para teste da versão disponibilizada.](https://github.com/Vharkus/Salas_Aulas/blob/main/Sala01.cpp)
 
 ## Pré-requisitos ⚠️    
 Um compilador de código que possa rodar ele, por exemplo: Programiz.
